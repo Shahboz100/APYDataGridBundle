@@ -3,7 +3,6 @@ This bundle was initiated by Stanislav Turza (Sorien).
 
 [![Build Status](https://secure.travis-ci.org/APY/APYDataGridBundle.png?branch=master)](http://travis-ci.org/APY/APYDataGridBundle) 
 [![Coverage Status](https://coveralls.io/repos/github/APY/APYDataGridBundle/badge.svg?branch=test-improvement)](https://coveralls.io/github/APY/APYDataGridBundle?branch=test-improvement)
-[![Stories in Ready](https://badge.waffle.io/APY/APYDataGridBundle.svg?label=ready&title=Ready)](http://waffle.io/APY/APYDataGridBundle)
 [![Gitter](https://badges.gitter.im/APY/APYDataGridBundle.svg)](https://gitter.im/APY/APYDataGridBundle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 See [CHANGELOG](https://github.com/APY/APYDataGridBundle/blob/master/CHANGELOG.md) and [UPGRADE 2.0](https://github.com/APY/APYDataGridBundle/blob/master/UPGRADE-2.0.md)
